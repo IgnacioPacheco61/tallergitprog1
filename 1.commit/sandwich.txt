@@ -1,7 +1,4 @@
-pan
-kepchup
-cebolla
-panceta
+cacerola
 queso
-medallón xxl
-pan
+medallon
+cacerola
